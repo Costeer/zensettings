@@ -2,7 +2,7 @@
 
 > A fork of [zen wireframe fork](https://github.com/undefinedcode0/zen-wireframe) by undefinedcode0 as a new repo for visibility with just the catppucin color scheme and a few changes to the urlbar
 
-![image](https://github.com/user-attachments/assets/303f38b5-89a8-4518-a0ef-262bdc351b6c)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5eb1a0ec-0dd3-4163-82b0-c761a6431c17" />
 
 
 ### changes
