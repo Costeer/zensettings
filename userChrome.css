@@ -327,22 +327,6 @@ splitter {
 
 /* expanded urlbar */
 
-#urlbar[open] {
-    position: fixed !important;
-
-    /* set your bar’s width directly */
-    width: var(--na-urlbar-width) !important;
-
-    /* center it */
-    left: 50% !important;
-    transform: translateX(-50%) !important;
-
-    /* flex and stacking */
-    display: flex !important;
-    flex-direction: column !important;
-    z-index: 1000 !important;
-}
-
 /* navbar padding */
 .urlbar-input-container {
     padding-inline: 2px !important;
@@ -1097,6 +1081,17 @@ body > hbox {
     margin: 0px !important;
     padding: 0px !important;
 }
+
+/*Glance Buttons*/
+zen-glance-sidebar-container {
+  & toolbarbutton {
+    &:hover {
+      background: #11111B;
+      scale: 1.05;
+    }
+  }
+}
+
 
 /* window */
 #zen-tabbox-wrapper {
