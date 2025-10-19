@@ -10,4 +10,4 @@
   - No bottom bar
 - Corner radius for most elements is set to 0
 - no border/padding around the website
-- fixed Urlbar theming (broken on original theme)
+- fixed Urlbar theming (broken on original theme)d
