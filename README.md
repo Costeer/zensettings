@@ -9,5 +9,5 @@
 - Urlbar is back to behing in the middle of the screen
   - No bottom bar
 - Corner radius for most elements is set to 0
-- no border/padding around the website
-- fixed Urlbar theming (broken on original theme)ddadawdada
+- no border/padding around the websiteSdawd
+- fixed Urlbar theming (broken on original theme)ddadawdadadawdawdawdawd
